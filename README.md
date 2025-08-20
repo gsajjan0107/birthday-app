@@ -29,13 +29,14 @@ Enter your date of birth (DD-MM-YYYY or YYYY/MM/DD): 19-08-2000
 
 🚀 Features
 
-Works with multiple date formats (DD-MM-YYYY, YYYY/MM/DD, etc.)
-Handles leap year birthdays (Feb 29 → Feb 28 in non-leap years)
-Gives exact difference in months + days until the next birthday
-Provides a friendly output with emojis 🎂🎉🥳
+- Works with multiple date formats (DD-MM-YYYY, YYYY/MM/DD, etc.)
+- Handles leap year birthdays (Feb 29 → Feb 28 in non-leap years)
+- Gives exact difference in months + days until the next birthday
+- Provides a friendly output with emojis 🎂🎉🥳
 
 📜 License
 
 Open source under the MIT License.
+
 
 
